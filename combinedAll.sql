@@ -329,11 +329,13 @@ insert into register values ('1111111111111102','AD03',0,5,'2019-04-16','College
 select* from folks;
 
 
--- use the commented code below to test and load things from queryAll
--- set session transaction isolation level read uncommitted;
+/*use the commented area below to test and load tables from queryAll
 
--- start transaction;
 
--- insert code here
+set session transaction isolation level read uncommitted;
 
--- rollback;
+start transaction;
+
+***insert code here***
+
+rollback;*/
