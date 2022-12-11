@@ -1,4 +1,4 @@
--- File:   Project 1.3 Phase E,F,A
+-- File:   Project 1.3
 -- Course: CMSC461
 -- Author: Weijie Mao
 -- Description: To run the application, open the file "combinedAll" and execute all lines.
