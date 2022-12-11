@@ -1,0 +1,6 @@
+-- File:   Project 1.3 Phase E,F,A
+-- Course: CMSC461
+-- Author: Weijie Mao
+-- Description: To run the application, open the file "combinedAll" and execute all lines.
+-- combinedAll put db_first,createAll,dropAll, and loadAll together. To display different
+-- tables, modify the last line of "combinedAll" (It's select* from folks by default).
